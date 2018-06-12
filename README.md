@@ -35,12 +35,7 @@ yarn test
 
 ## Usage
 ```js
-/*
- * @Author: kerim selmi 
- * @Date: 2018-06-12 17:38:18 
- * @Last Modified by: kerim selmi
- * @Last Modified time: 2018-06-12 18:45:33
- */
+
 import React from 'react';
 import { StyleSheet, Text, Alert } from 'react-native'
 import DoubleClick from 'rn-double-click'
