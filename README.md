@@ -23,6 +23,9 @@ yarn install rn-double-click
 you need to install 
 <a href="https://facebook.github.io/jest/docs/en/22.1/getting-started.html">jest</a> 
 
+* yarn add --dev jest babel-jest babel-preset-env babel-preset-react react-test-renderer
+
+
 ```bash
 
 npm test
