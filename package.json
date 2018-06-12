@@ -11,6 +11,9 @@
     "url": "git+https://github.com/karimation/rn-double-click.git"
   },
   "keywords": [
+    "double-click",
+    "react-native",
+    "touchableopacity",
     "react",
     "native",
     "rn-double-click",
