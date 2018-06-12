@@ -1,16 +1,27 @@
 # rn-double-click
 
-A Component for Double Click based on TouchableOpacity Wrapper.
+A Component for Double Click based on <a href="https://facebook.github.io/react-native/docs/touchableopacity.html">TouchableOpacity</a>  Wrapper.
+
 Build for React Native App and works on both Android and iOS.
 
 <img src="screenshots/test.gif"  />
 
-## Installation
-* `npm install --save rn-double-click`
+# Installation
 
-## Running the tests
+```bash
 
-you need to install <a href="https://facebook.github.io/jest/docs/en/22.1/getting-started.html">jest</a> 
+npm install --save rn-double-click
+
+or 
+
+yarn install rn-double-click
+
+```
+
+# Running the tests
+
+you need to install 
+<a href="https://facebook.github.io/jest/docs/en/22.1/getting-started.html">jest</a> 
 
 ```bash
 
