@@ -4,7 +4,7 @@
   "description": "double click",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "start": "yarn start"
   },
   "repository": {
     "type": "git",
@@ -26,8 +26,5 @@
   "bugs": {
     "url": "https://github.com/karimation/rn-double-click/issues"
   },
-  "homepage": "https://github.com/karimation/rn-double-click#readme",
-  "devDependencies": {
-    "jest": "^23.1.0"
-  }
+  "homepage": "https://github.com/karimation/rn-double-click#readme"
 }
