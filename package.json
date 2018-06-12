@@ -1,0 +1,25 @@
+{
+  "name": "rn-double-click",
+  "version": "1.0.0",
+  "description": "double click",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karimation/rn-double-click.git"
+  },
+  "keywords": [
+    "doubleclick"
+  ],
+  "author": "“kerim <“selmi.kerim@gmail.com\nnpm set init.author.email “selmi.kerim@gmail.com> (“http://www.karimation.com\nnpm set init.author.url “http://www.karimation.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karimation/rn-double-click/issues"
+  },
+  "homepage": "https://github.com/karimation/rn-double-click#readme",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
