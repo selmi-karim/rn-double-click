@@ -1,7 +1,7 @@
 {
   "name": "rn-double-click",
   "version": "1.0.0",
-  "description": "double click",
+  "description": "A Component for Double Click based on TouchableOpacity Wrapper. Build for React Native App and works on both Android and iOS.",
   "main": "index.js",
   "scripts": {
     "start": "yarn start"
